@@ -4,13 +4,13 @@ import os
 import tkinter as tk
 from tkinter import font, PhotoImage
 
-# ---------- EXE kompatibilis elérési út ----------
+
 if getattr(sys, 'frozen', False):
     application_path = sys._MEIPASS
 else:
     application_path = os.path.dirname(os.path.abspath(__file__))
 
-# ---------- CSV betöltés ----------
+
 csv_path = os.path.join(application_path, "szamlatukor_adatok.csv")
 osztalyok = []
 
@@ -21,25 +21,25 @@ with open(csv_path, newline="", encoding="utf-8") as f:
             row["szamlaszam"]: [row["szamlanev_ro"], row["szamlanev_hu"]]
         })
 
-# ---------- GUI ----------
+
 root = tk.Tk()
 root.title("Számlanév kereső (Dark Mode)")
 root.geometry("550x400")
 root.resizable(False, False)
 root.configure(bg="#2e2e2e")
 
-# ---------- Ikon betöltése ----------
+
 ikon_path = os.path.join(application_path, "ikon.ico")
 try:
     root.iconbitmap(ikon_path)
 except Exception as e:
     print("Nem sikerült betölteni az ikont:", e)
 
-# ---------- Betűtípusok ----------
+
 bold_font = font.Font(family="Segoe UI", size=10, weight="bold")
 normal_font = font.Font(family="Segoe UI", size=10)
 
-# ---------- Kereső típus választó ----------
+
 search_type = tk.StringVar(value="szam")
 frame_radio = tk.Frame(root, bg="#2e2e2e")
 frame_radio.pack(pady=5)
@@ -51,14 +51,14 @@ tk.Radiobutton(frame_radio, text="Számlanév_RO (részleges egyezés)", variabl
                bg="#2e2e2e", fg="white", selectcolor="#444444", activebackground="#2e2e2e", activeforeground="white",
                font=normal_font).pack(side=tk.LEFT, padx=5)
 
-# ---------- Input és gomb ----------
+
 tk.Label(root, text="Keresett érték:", bg="#2e2e2e", fg="white", font=normal_font).pack(pady=5)
 entry = tk.Entry(root, bg="#3c3c3c", fg="white", insertbackground="white", font=normal_font)
 entry.pack(pady=5)
 tk.Button(root, text="Keresés", command=lambda: keres(), bg="#444444", fg="white",
           activebackground="#555555", activeforeground="white", font=normal_font).pack(pady=5)
 
-# ---------- Frame a Text + Scrollbar-hoz ----------
+
 frame_text = tk.Frame(root, bg="#2e2e2e")
 frame_text.pack(pady=10)
 
@@ -71,7 +71,7 @@ scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
 text_result.config(yscrollcommand=scrollbar.set)
 text_result.tag_configure("bold", font=bold_font)
 
-# ---------- Kereső függvény ----------
+
 def keres():
     keresett = entry.get().lower()
     text_result.config(state=tk.NORMAL)
@@ -107,7 +107,8 @@ def keres():
 
     text_result.config(state=tk.DISABLED)
 
-# ---------- Enter billentyű ----------
+
 entry.bind("<Return>", lambda event: keres())
 
 root.mainloop()
+
