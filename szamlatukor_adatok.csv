@@ -1,0 +1,638 @@
+szamlaszam,szamlanev_ro,szamlanev_hu
+10, Capital si rezerve,Tőke és tartalékok
+101, Capital,Tőke
+1011, Capital subscris nevarsat (P),Befizetetlen jegyzett tőke (P)
+1012, Capital subscris varsat (P),Befizetett jegyzett tőke (P)
+1015, Patrimoniul regiei (P),A vezetőség vagyona (P)
+1016, Patrimoniul public (P),Közörökség (P)
+1017, Patrimoniul privat (P),Magánvagyon (P)
+1018, Patrimoniul institutelor nationale de cercetare-dezvoltare (P),Nemzeti kutató-fejlesztő intézetek öröksége (P)
+103, Alte elemente de capitaluri proprii,Egyéb tőkeelemek
+1031, Beneficii acordate angajatilor sub forma instrumentelor de capitaluri proprii (P),Tőkeinstrumentumok formájában nyújtott munkavállalói juttatások (P)
+1033, Diferente de curs valutar in relatie cu investitia neta intr-o entitate straina (A/P),Árfolyamkülönbözetek külföldi szervezetbe történő nettó befektetéshez (A/P) viszonyítva
+1038, Diferente din modificarea valorii juste a activelor financiare disponibile in vederea vanzarii si alte elemente de capitaluri proprii (A/P),Értékesíthető pénzügyi eszközök és egyéb tőkeelemek (A/P) valós értékének változásából eredő különbségek
+104, Prime de capital,Tőkeprémiumok
+1041, Prime de emisiune (P),Részvényfelár (P)
+1042, Prime de fuziune/divizare (P),Egyesülési/felosztási díjak (P)
+1043, Prime de aport (P),Járulékdíjak (P)
+1044, Prime de conversie a obligatiunilor in actiuni (P),Kötvények részvényekre történő átváltási prémiumai (P)
+105, Rezerve din reevaluare (P),Átértékelési tartalékok (P)
+106, Rezerve,Tartalékok
+1061, Rezerve legale (P),Jogi tartalékok (P)
+1063, Rezerve statutare sau contractuale (P),Kötelező vagy szerződéses tartalékok (P)
+1068, Alte rezerve (P),Egyéb tartalékok (P)
+107, Diferente de curs valutar din conversie (A/P),Átváltásból származó árfolyamkülönbözetek (beszerzési)
+108, Interese care nu controleaza,Nem irányító részesedések
+1081, Interese care nu controleaza - rezultatul exercitiului financiar (A/P),Nem irányító részesedések - a pénzügyi év eredménye (A/P)
+1082, Interese care nu controleaza - alte capitaluri proprii (A/P),Nem irányító részesedések - egyéb tőke (O/P)
+109, Actiuni proprii,Saját cselekedetek
+1091, Actiuni proprii detinute pe termen scurt (A),Rövid távon tartott saját részvények (A)
+1092, Actiuni proprii detinute pe termen lung (A),Hosszú távon tartott saját részvények (A)
+1095, Actiuni proprii reprezentand titluri detinute de societatea absorbita la societatea absorbanta (A),"Saját részvények, amelyek a beolvadó társaság által az átvevő társaságban birtokolt értékpapírokat képviselik (A)"
+11, Rezultatul reportat,Eredménytartalék
+117, Rezultatul reportat,Eredménytartalék
+1171, Rezultatul reportat reprezentand profitul nerepartizat sau pierderea neacoperita (A/P),Fel nem osztott nyereséget vagy fedezetlen veszteséget képviselő eredménytartalék (A/P)
+1172," Rezultatul reportat provenit din adoptarea pentru prima data a IAS, mai putin IAS 29* (A/P)","Az IAS első alkalmazásából származó eredménytartalék, mínusz IAS 29* (bevétel)"
+1173, Rezultatul reportat provenit din modificarile politicilor contabile (A/P),Számviteli politikák változásából eredő eredménytartalék (A/P)
+1174, Rezultatul reportat provenit din corectarea erorilor contabile (A/P),Számviteli hibák javításából származó eredménytartalék (A/P)
+1175, Rezultatul reportat reprezentand surplusul realizat din rezerve din reevaluare (P),Az értékelési tartalékokból realizált többletet képviselő eredménytartalék (P)
+1176, Rezultatul reportat provenit din trecerea la aplicarea reglementarilor contabile conforme cu directivele europene (A/P),Az európai irányelveknek megfelelő számviteli szabályozások alkalmazására való áttérésből származó eredménytartalék (A/P)
+12, Rezultatul exercitiului financiar,Pénzügyi év eredménye
+121, Profit sau pierdere (A/P),Nyereség vagy veszteség (P/L)
+129, Repartizarea profitului (A),Nyereségmegosztás (A)
+14," Castiguri sau pierderi legate de emiterea, rascumpararea, vanzarea, cedarea cu titlu gratuit sau anularea instrumentelor de capitaluri proprii","Tulajdoni részesedések kibocsátásából, visszaváltásából, eladásából, ingyenes átruházásából vagy megszüntetéséből származó nyereségek vagy veszteségek"
+141, Castiguri legate de vanzarea sau anularea instrumentelor de capitaluri proprii,Tulajdoni részesedések eladásából vagy törlésével kapcsolatos nyereségek
+1411, Castiguri legate de vanzarea instrumentelor de capitaluri proprii (P),Részvényinstrumentumok eladásából származó nyereség (P)
+1412, Castiguri legate de anularea instrumentelor de capitaluri proprii (P),Részvényinstrumentumok törlésével kapcsolatos nyereség (P)
+149," Pierderi legate de emiterea, rascumpararea, vanzarea, cedarea cu titlu gratuit sau anularea instrumentelor de capitaluri proprii","Tulajdoni részesedések kibocsátásával, visszaváltásával, eladásával, ingyenes átruházásával vagy törlésével kapcsolatos veszteségek"
+1491, Pierderi rezultate din vanzarea instrumentelor de capitaluri proprii (A),Részvényinstrumentumok eladásából származó veszteségek (A)
+1495," Pierderi rezultate din reorganizari, care sunt determinate de anularea titlurilor detinute (A)","Átszervezésekből eredő veszteségek, amelyeket a birtokolt értékpapírok törlése határoz meg (A)"
+1496," Pierderi rezultate din reorganizari de societati, corespunzatoare activului net negativ al societatii absorbite","A vállalati átszervezésekből eredő veszteségek, amelyek megfelelnek a beolvasztott vállalat negatív nettó eszközértékének"
+1498, Alte pierderi legate de instrumentele de capitaluri proprii (A),"Egyéb, részvényinstrumentumokhoz kapcsolódó veszteségek (A)"
+15, Provizioane,Rendelkezések
+151, Provizioane,Rendelkezések
+1511, Provizioane pentru litigii (P),Peres ügyekre vonatkozó céltartalékok (P)
+1512, Provizioane pentru garantii acordate clientilor (P),Ügyfeleknek nyújtott garanciákra képzett céltartalék (P)
+1513, Provizioane pentru dezafectare imobilizari corporale si alte actiuni similare legate de acestea (P),Tárgyi eszközök leszerelésére és az azokhoz kapcsolódó egyéb hasonló intézkedésekre képzett céltartalékok (P)
+1514, Provizioane pentru restructurare (P),Átszervezési céltartalékok (P)
+1515, Provizioane pentru pensii si obligatii similare (P),Nyugdíjakra és hasonló kötelezettségekre képzett céltartalékok (P)
+1516, Provizioane pentru impozite (P),Adózásra képzett céltartalékok (P)
+1517, Provizioane pentru terminarea contractului de munca (P),A munkaszerződés megszüntetésére vonatkozó rendelkezések (P)
+1518, Alte provizioane (P),Egyéb rendelkezések (P)
+16, Imprumuturi si datorii asimilate,Kölcsönök és hasonló adósságok
+161, Imprumuturi din emisiuni de obligatiuni,Kötvénykibocsátásokból származó hitelek
+1614, Imprumuturi externe din emisiuni de obligatiuni garantate de stat (P),Állam által garantált kötvénykibocsátásokból származó külső hitelek (P)
+1615, Imprumuturi externe din emisiuni de obligatiuni garantate de banci (P),Bankok által garantált kötvénykibocsátásokból származó külső hitelek (P)
+1617, Imprumuturi interne din emisiuni de obligatiuni garantate de stat (P),Belföldi hitelfelvételek államilag garantált kötvénykibocsátásokból (P)
+1618, Alte imprumuturi din emisiuni de obligatiuni (P),Egyéb kötvénykibocsátásból származó hitelek (P)
+162, Credite bancare pe termen lung,Hosszú lejáratú banki hitelek
+1621, Credite bancare pe termen lung (P),Hosszú lejáratú banki hitelek (P)
+1622, Credite bancare pe termen lung nerambursate la scadenta (P),Lejáratkor vissza nem fizetett hosszú lejáratú banki hitelek (P)
+1623, Credite externe guvernamentale (P),Kormányzati külső hitelek (P)
+1624, Credite bancare externe garantate de stat (P),Államilag garantált külső banki hitelek (P)
+1625, Credite bancare externe garantate de banci (P),Bankok által garantált külső banki hitelek (P)
+1626, Credite de la trezoreria statului (P),Államkincstári kölcsönök (P)
+1627, Credite bancare interne garantate de stat (P),Államilag garantált belföldi bankhitelek (P)
+166, Datorii care privesc imobilizarile financiare,Pénzügyi eszközökhöz kapcsolódó kötelezettségek
+1661, Datorii fata de entitatile afiliate (P),Kapcsolt vállalkozásokkal szembeni kötelezettségek (P)
+1663, Datorii fata de entitatile asociate si entitatile controlate in comun (P),Kapcsolt vállalkozásokkal és közösen ellenőrzött vállalkozásokkal szembeni kötelezettségek (P)
+167, Alte imprumuturi si datorii asimilate (P),Egyéb kölcsönök és hasonló tartozások (P)
+168, Dobanzi aferente imprumuturilor si datoriilor asimilate,Kölcsönök és hasonló adósságok kamatai
+1681, Dobanzi aferente imprumuturilor din emisiuni de obligatiuni (P),Kötvénykibocsátásokból származó hitelek kamata (P)
+1682, Dobanzi aferente creditelor bancare pe termen lung (P),Hosszú lejáratú banki hitelek kamata (P)
+1685, Dobanzi aferente datoriilor fata de entitatile afiliate (P),Kapcsolt vállalkozásokkal szembeni tartozások kamata (P)
+1686, Dobanzi aferente datoriilor fata de entitatile asociate si entitatile controlate in comun (P),Kapcsolt vállalkozásokkal és közösen ellenőrzött vállalkozásokkal szembeni tartozások kamata (P)
+1687, Dobanzi aferente altor imprumuturi si datorii asimilate (P),Egyéb kölcsönök és hasonló adósságok kamata (P)
+169, Prime privind rambursarea obligatiunilor si a altor datorii,Kötvények és egyéb adósságok visszafizetésére vonatkozó prémiumok
+1691, Prime privind rambursarea obligatiunilor (A),Kötvényvisszaváltási prémium (A)
+1692, Prime privind rambursarea altor datorii (A),Egyéb adósságok visszafizetésére vonatkozó prémiumok (A)
+20, IMOBILIZARI NECORPORALE,IMMATERIÁLIS JAVAK
+201, Cheltuieli de constituire (A),Létesítési költségek (A)
+203, Cheltuieli de dezvoltare (A),Fejlesztési költségek (A)
+205," Concesiuni, brevete, licente, marci comerciale, drepturi si active similare (A)","Koncessziók, szabadalmak, licencek, védjegyek, jogok és hasonló eszközök (A)"
+206, Active necorporale de explorare si evaluare a resurselor minerale (A),Ásványi erőforrások feltárására és értékelésére szolgáló immateriális javak (A)
+207, Fond comercial,Jóakarat
+2071, Fond comercial pozitiv (A),Pozitív goodwill (A)
+2075, Fond comercial negativ (P),Negatív goodwill (P)
+208, Alte imobilizari necorporale (A),Egyéb immateriális javak (A)
+21, Imobilizari corporale,Tárgyi eszközök
+211, Terenuri si amenajari de terenuri (A),Földterületek és földterület-fejlesztések (A)
+2111, Terenuri,Földek
+2112, Amenajari de terenuri,Kertépítés
+212, Constructii (A),Szerkezetek (A)
+213, Instalatii tehnice si mijloace de transport,Műszaki berendezések és szállítóeszközök
+2131," Echipamente tehnologice (masini, utilaje si instalatii de lucru) (A)","Technológiai berendezések (gépek, berendezések és munkaeszközök) (A)"
+2132," Aparate si instalatii de masurare, control si reglare (A)","Mérő-, vezérlő- és szabályozóeszközök és berendezések (A)"
+2133, Mijloace de transport (A),Közlekedési eszköz (A)
+214," Mobilier, aparatura birotica, echipamente de protectie a valorilor umane si materiale si alte active corporale (A)","Bútorok, irodai berendezések, emberi és anyagi értékek, valamint egyéb tárgyi eszközök védelmére szolgáló berendezések (A)"
+215, Investitii imobiliare (A),Ingatlanbefektetések (A)
+216, Active corporale de explorare si evaluare a resurselor minerale (A),Ásványi erőforrások feltárására és értékelésére szolgáló tárgyi eszközök (A)
+217, Active biologice productive (A),Produktív biológiai eszközök (A)
+22, Imobilizari corporale in curs de aprovizionare,Beszerzés alatt álló tárgyi eszközök
+223, Instalatii tehnice si mijloace de transport in curs de aprovizionare (A),Szállítás alatt álló műszaki berendezések és szállítóeszközök (A)
+224," Mobilier, aparatura birotica, echipamente de protectie a valorilor umane si materiale si alte active corporale in curs de aprovizionare (A)","Beszerzés alatt álló bútorok, irodai berendezések, emberi és anyagi értékek védelmét szolgáló berendezések és egyéb tárgyi eszközök (A)"
+227, Active biologice productive in curs de aprovizionare (A),Beszerzés alatt álló produktív biológiai eszközök (A)
+23, Imobilizari in curs,Befejezetlen tárgyi eszközök
+231, Imobilizari corporale in curs de executie (A),Befejezetlen tárgyi eszközök (A)
+235, Investitii imobiliare in curs de executie (A),Folyamatban lévő ingatlanbefektetések (A)
+26, Imobilizari financiare,Pénzügyi eszközök
+261, Actiuni detinute la entitatile afiliate (A),Kapcsolt vállalkozásokban tartott részvények (A)
+262, Actiuni detinute la entitati asociate (A),Kapcsolt vállalkozásokban tartott részvények (A)
+263, Actiuni detinute la entitati controlate in comun (A),Közösen ellenőrzött vállalkozásokban tartott részvények (A)
+264, Titluri puse in echivalenta (A),Egyenértékű értékpapírok (A)
+265, Alte titluri imobilizate (A),Egyéb tárgyi eszközök (A)
+266, Certificate verzi amanate (A),Halasztott zöld tanúsítványok (A)
+267, Creante imobilizate,Fix követelések
+2671, Sume de incasat de la entitatile afiliate (A),Kapcsolt vállalkozásokkal szembeni követelések (A)
+2672, Dobanda aferenta sumelor de incasat de la entitatile afiliate (A),Kapcsolt vállalkozásokkal szembeni követelések kamatai (A)
+2673, Creante fata de entitatile asociate si entitatile controlate in comun (A),Kapcsolt vállalkozásokkal és közös vezetésű vállalkozásokkal szembeni követelések (A)
+2674, Dobanda aferenta creantelor fata de entitatile asociate si entitatile controlate in comun (A),Kapcsolt vállalkozásokkal és közös vezetésű vállalkozásokkal szembeni követelések kamata (A)
+2675, Imprumuturi acordate pe termen lung (A),Hosszú lejáratú hitelek (A)
+2676, Dobanda aferenta imprumuturilor acordate pe termen lung (A),Hosszú lejáratú hitelek kamata (A)
+2677, Obligatiuni achizitionate cu ocazia emisiunilor efectuate de terti (A),Harmadik felek által végrehajtott kibocsátások alkalmával vásárolt kötvények (A)
+2678, Alte creante imobilizate (A),Egyéb hosszú lejáratú követelések (A)
+2679, Dobanzi aferente altor creante imobilizate (A),Egyéb hosszú lejáratú követelések kamata (A)
+269, Varsaminte de efectuat pentru imobilizari financiare,Pénzügyi eszközökért fizetendő kifizetések
+2691, Varsaminte de efectuat privind actiunile detinute la entitatile afiliate (P),Kapcsolt vállalkozásokban lévő részvényekkel kapcsolatos kifizetések (P)
+2692, Varsaminte de efectuat privind actiunile detinute la entitati asociate (P),Kapcsolt vállalkozásokban birtokolt részvényekkel kapcsolatos kifizetések (P)
+2693, Varsaminte de efectuat privind actiunile detinute la entitati controlate in comun (P),Közösen ellenőrzött vállalkozásokban lévő részvényekkel kapcsolatos kifizetések (P)
+2695, Varsaminte de efectuat pentru alte imobilizari financiare (P),Egyéb pénzügyi eszközökért fizetendő kifizetések (P)
+28, Amortizari privind imobilizarile,Tárgyi eszközök értékcsökkenése
+280, Amortizari privind imobilizarile necorporale,Immateriális javak amortizációja
+2801, Amortizarea cheltuielilor de constituire (P),Alapítási költségek amortizációja (P)
+2803, Amortizarea cheltuielilor de dezvoltare (P),Fejlesztési költségek amortizációja (P)
+2805," Amortizarea concesiunilor, brevetelor, licentelor, marcilor comerciale, drepturilor si activelor similare (P)","Koncessziók, szabadalmak, licencek, védjegyek, jogok és hasonló eszközök amortizációja (P)"
+2806, Amortizarea activelor necorporale de explorare si evaluare a resurselor minerale (P),Ásványi erőforrások feltárásához és felméréséhez kapcsolódó immateriális javak amortizációja (P)
+2807, Amortizarea fondului comercial (P),Goodwill amortizációja (P)
+2808, Amortizarea altor imobilizari necorporale (P),Egyéb immateriális javak amortizációja (P)
+281, Amortizari privind imobilizarile corporale,Tárgyi eszközök értékcsökkenése
+2811, Amortizarea amenajarilor de terenuri (P),Talajjavítások értékcsökkenése (P)
+2812, Amortizarea constructiilor (P),Épületek értékcsökkenése (P)
+2813, Amortizarea instalatiilor si mijloacelor de transport (P),Létesítmények és szállítóeszközök értékcsökkenése (P)
+2814, Amortizarea altor imobilizari corporale (P),Egyéb tárgyi eszközök értékcsökkenése (P)
+2815, Amortizarea investitiilor imobiliare (P),Ingatlanbefektetések értékcsökkenése (P)
+2816, Amortizarea activelor corporale de explorare si evaluare a resurselor minerale (P),Ásványi erőforrások feltárásához és felméréséhez kapcsolódó tárgyi eszközök értékcsökkenése (P)
+2817, Amortizarea activelor biologice productive (P),Produktív biológiai eszközök értékcsökkenése (P)
+29, Ajustari pentru deprecierea sau pierderea de valoare a imobilizarilor,Tárgyi eszközök értékcsökkenése vagy értékvesztése miatti korrekciók
+290, Ajustari pentru deprecierea imobilizarilor necorporale,Immateriális javak értékvesztése miatti korrekciók
+2903, Ajustari pentru deprecierea cheltuielilor de dezvoltare (P),Fejlesztési költségek értékcsökkenésének korrekciója (P)
+2905," Ajustari pentru deprecierea concesiunilor, brevetelor, licentelor, marcilor comerciale, drepturilor si activelor similare (P)","Koncessziók, szabadalmak, licencek, védjegyek, jogok és hasonló eszközök értékvesztése miatti korrekciók (P)"
+2906, Ajustari pentru deprecierea activelor necorporale de explorare si evaluare a resurselor minerale (P),Ásványi erőforrások feltárásához és felméréséhez kapcsolódó immateriális javak értékvesztése miatti korrekciók (P)
+2908, Ajustari pentru deprecierea altor imobilizari necorporale (P),Egyéb immateriális javak értékvesztése miatti korrekciók (P)
+291, Ajustari pentru deprecierea imobilizarilor corporale,Tárgyi eszközök értékcsökkenésének korrekciója
+2911, Ajustari pentru deprecierea terenurilor si amenajarilor de terenuri (P),Telkek és telekfejlesztések értékcsökkenésének korrekciója (P)
+2912, Ajustari pentru deprecierea constructiilor (P),Építmények értékcsökkenésének korrekciója (P)
+2913, Ajustari pentru deprecierea instalatiilor si mijloacelor de transport (P),Létesítmények és szállítóeszközök értékcsökkenésének korrekciója (P)
+2914, Ajustari pentru deprecierea altor imobilizari corporale (P),Egyéb tárgyi eszközök értékcsökkenésének korrekciója (P)
+2915, Ajustari pentru deprecierea investitiilor imobiliare (P),Befektetési célú ingatlanok értékcsökkenésének korrekciója (P)
+2916, Ajustari pentru deprecierea activelor corporale de explorare si evaluare a resurselor minerale (P),Ásványi erőforrások feltárásához és felméréséhez kapcsolódó tárgyi eszközök értékcsökkenésének korrekciója (P)
+2917, Ajustari pentru deprecierea activelor biologice productive (P),Produktív biológiai eszközök értékcsökkenésének korrekciója (P)
+293, Ajustari pentru deprecierea imobilizarilor in curs de executie,Befejezetlen eszközök értékcsökkenésének korrekciója
+2931, Ajustari pentru deprecierea imobilizarilor corporale in curs de executie (P),Befejezetlen tárgyi eszközök értékcsökkenésének korrekciója (P)
+2935, Ajustari pentru deprecierea investitiilor imobiliare in curs de executie (P),Befejezetlen ingatlanbefektetések értékcsökkenésének korrekciója (P)
+296, Ajustari pentru pierderea de valoare a imobilizarilor financiare,Pénzügyi eszközök értékvesztésének korrekciói
+2961, Ajustari pentru pierderea de valoare a actiunilor detinute la entitatile afiliate (P),Kapcsolt vállalkozásokban lévő részvények értékvesztésének korrekciója (P)
+2962, Ajustari pentru pierderea de valoare a actiunilor detinute la entitati asociate si entitati controlate in comun (P),Kapcsolt vállalkozásokban és közösen ellenőrzött vállalkozásokban lévő részvények értékvesztésének korrekciója (P)
+2963, Ajustari pentru pierderea de valoare a altor titluri imobilizate (P),Egyéb tárgyi eszközök értékvesztésének korrekciója (P)
+2964, Ajustari pentru pierderea de valoare a sumelor de incasat de la entitatile afiliate (P),Kapcsolt vállalkozásokkal szembeni követelések értékvesztésének korrekciója (P)
+2965, Ajustari pentru pierderea de valoare a creantelor fata de entitatile asociate si entitatile controlate in comun (P),Kapcsolt vállalkozásokkal és közösen ellenőrzött vállalkozásokkal szembeni követelések értékvesztésének korrekciója (P)
+2966, Ajustari pentru pierderea de valoare a imprumuturilor acordate pe termen lung (P),Hosszú lejáratú hitelek értékvesztésének korrekciója (P)
+2968, Ajustari pentru pierderea de valoare a altor creante imobilizate (P),Egyéb tárgyi eszközök értékvesztésének korrekciója (P)
+30, Stocuri de materii prime si materiale,Nyersanyag- és kellékkészletek
+301, Materii prime (A),Nyersanyagok (A)
+302, Materiale consumabile,Fogyóeszközök
+3021, Materiale auxiliare (A),Segédanyagok (A)
+3022, Combustibili (A),Üzemanyagok (A)
+3023, Materiale pentru ambalat (A),Csomagolóanyagok (A)
+3024, Piese de schimb (A),Alkatrészek (A)
+3025, Seminte si materiale de plantat (A),Magok és ültetési anyagok (A)
+3026, Furaje (A),Takarmány (A)
+3028, Alte materiale consumabile (A),Egyéb fogyóeszközök (A)
+303, Materiale de natura obiectelor de inventar (A),Készlettétel jellegű anyagok (A)
+308, Diferente de pret la materii prime si materiale (A/P),Nyersanyagok és kellékek árkülönbségei (beszerzési ár)
+32, Stocuri in curs de aprovizionare,"Készletek, amelyek szállítása folyamatban van"
+321, Materii prime in curs de aprovizionare (A),Szállítás alatt álló nyersanyagok (A)
+322, Materiale consumabile in curs de aprovizionare (A),Szállítás alatt álló fogyóeszközök (A)
+323, Materiale de natura obiectelor de inventar in curs de aprovizionare (A),"Készlettétel jellegű anyagok, amelyek szállítás alatt állnak (A)"
+326, Active biologice de natura stocurilor in curs de aprovizionare (A),"Készletek formájában lévő biológiai eszközök, amelyek szállítás alatt állnak (A)"
+327, Marfuri in curs de aprovizionare (A),Szállítás alatt álló áruk (A)
+328, Ambalaje in curs de aprovizionare (A),Csomagolás szállítás alatt (A)
+33, Productie in curs de executie,Folyamatban lévő gyártás
+331, Produse in curs de executie (A),Folyamatban lévő termékek (A)
+332, Servicii in curs de executie (A),Folyamatban lévő szolgáltatások (A)
+34, PRODUSE,TERMÉKEK
+341, Semifabricate (A),Félkész termékek (A)
+345, Produse finite (A),Késztermékek (A)
+346, Produse reziduale (A),Maradéktermékek (A)
+347, Produse agricole (A),Mezőgazdasági termékek (A)
+348, Diferente de pret la produse (A/P),Termékár-különbségek (beszerzési ár)
+35, STOCURI AFLATE LA TERTI,HARMADIK FÉLNÉL TALÁLHATÓ KÉSZLETEK
+351, Materii si materiale aflate la terti (A),Harmadik felek birtokában lévő anyagok és kellékek (A)
+354, Produse aflate la terti (A),Harmadik féltől származó termékek (A)
+356, Active biologice de natura stocurilor aflate la terti (A),Harmadik felek által tartott készletek jellegű biológiai eszközök (A)
+357, Marfuri aflate la terti (A),Harmadik felek birtokában lévő áruk (A)
+358, Ambalaje aflate la terti (A),Harmadik féltől származó csomagolás (A)
+36, Active biologice de natura stocurilor,Biológiai eszközök készletek formájában
+361, Active biologice de natura stocurilor (A),Készletek jellegű biológiai eszközök (A)
+368, Diferente de pret la active biologice de natura stocurilor (A/P),Készlet jellegű biológiai eszközök árkülönbözetei (A/P)
+37, MARFURI,ÁRUK
+371, Marfuri (A),Áruk (A)
+378, Diferente de pret la marfuri (A/P),Áruár-különbségek (beszerzési ár)
+38, Ambalaje,Csomagolás
+381, Ambalaje (A),Csomagolás (A)
+388, Diferente de pret la ambalaje (A/P),Csomagolási árkülönbségek (Ár/Ár)
+39, Ajustari pentru deprecierea stocurilor si productiei in curs de executie,Készletek és befejezetlen termelés értékcsökkenésének korrekciói
+391, Ajustari pentru deprecierea materiilor prime (P),Nyersanyagok értékcsökkenésének korrekciója (P)
+392, Ajustari pentru deprecierea materialelor,Anyagok értékcsökkenésének korrekciója
+3921, Ajustari pentru deprecierea materialelor consumabile (P),Fogyóeszközök értékcsökkenésének korrekciója (P)
+3922, Ajustari pentru deprecierea materialelor de natura obiectelor de inventar (P),Készlettétel jellegű anyagok értékcsökkenésének korrekciója (P)
+393, Ajustari pentru deprecierea productiei in curs de executie (P),Befejezetlen termelés értékcsökkenésének korrekciója (P)
+394, Ajustari pentru deprecierea produselor,Termékértékcsökkenési korrekciók
+3941, Ajustari pentru deprecierea semifabricatelor (P),Félkész termékek értékcsökkenésének korrekciója (P)
+3945, Ajustari pentru deprecierea produselor finite (P),Késztermékek értékcsökkenésének korrekciója (P)
+3946, Ajustari pentru deprecierea produselor reziduale (P),A maradványtermékek értékcsökkenésének korrekciója (P)
+3947, Ajustari pentru deprecierea produselor agricole (P),Mezőgazdasági termékek értékcsökkenésének korrekciója (P)
+395, Ajustari pentru deprecierea stocurilor aflate la terti,Harmadik felek által tartott készletek értékcsökkenésének korrekciója
+3951, Ajustari pentru deprecierea materiilor si materialelor aflate la terti (P),Harmadik felek birtokában lévő anyagok és kellékek értékcsökkenésének korrekciója (P)
+3952, Ajustari pentru deprecierea semifabricatelor aflate la terti (P),Harmadik felek által birtokolt félkész termékek értékcsökkenésének korrekciója (P)
+3953, Ajustari pentru deprecierea produselor finite aflate la terti (P),Harmadik felek birtokában lévő késztermékek értékcsökkenésének korrekciója (P)
+3954, Ajustari pentru deprecierea produselor reziduale aflate la terti (P),Harmadik felek által birtokolt maradványtermékek értékcsökkenésének korrekciója (P)
+3955, Ajustari pentru deprecierea produselor agricole aflate la terti (P),Harmadik felek birtokában lévő mezőgazdasági termékek értékcsökkenésének korrekciója (P)
+3956, Ajustari pentru deprecierea activelor biologice de natura stocurilor aflate la terti (P),Harmadik fél által tartott készletek jellegű biológiai eszközök értékcsökkenésének korrekciója (P)
+3957, Ajustari pentru deprecierea marfurilor aflate la terti (P),Harmadik felek birtokában lévő áruk értékcsökkenésének korrekciója (P)
+3958, Ajustari pentru deprecierea ambalajelor aflate la terti (P),Harmadik felek által birtokolt csomagolás értékcsökkenésének korrekciója (P)
+396, Ajustari pentru deprecierea activelor biologice de natura stocurilor (P),Készletek jellegű biológiai eszközök értékcsökkenésének korrekciója (P)
+397, Ajustari pentru deprecierea marfurilor (P),Áruk értékcsökkenésének korrekciója (P)
+398, Ajustari pentru deprecierea ambalajelor (P),Csomagolási értékcsökkenés (P) korrekciói
+40, Furnizori si conturi asimilate,Beszállítók és hasonló ügyfelek
+401, Furnizori (P),Beszállítók (P)
+403, Efecte de platit (P),Váltók (P)
+404, Furnizori de imobilizari (P),Tárgyi eszköz beszállítók (P)
+405, Efecte de platit pentru imobilizari (P),Befektetett eszközökért fizetendő váltók (P)
+408, Furnizori - facturi nesosite (P),Szállítók - kifizetetlen számlák (P)
+409, Furnizori - debitori,Beszállítók - adósok
+4091, Furnizori - debitori pentru cumparari de bunuri de natura stocurilor (A),Beszállítók - készlet jellegű áruk beszerzéséért felelős adósok (A)
+4092, Furnizori - debitori pentru prestari de servicii (A),Beszállítók - szolgáltatásokért felelős adósok (A)
+4093, Avansuri acordate pentru imobilizari corporale (A),Tárgyi eszközökre nyújtott előlegek (A)
+4094, Avansuri acordate pentru imobilizari necorporale (A),Immateriális javakra nyújtott előlegek (A)
+41, Clienti si conturi asimilate,Ügyfelek és hasonló fiókok
+411, Clienti,Ügyfelek
+4111, Clienti (A),Ügyfelek (A)
+4118, Clienti incerti sau in litigiu (A),Bizonytalan vagy pereskedő ügyfelek (A)
+413, Efecte de primit de la clienti (A),Ügyfelektől követelések (A)
+418, Clienti - facturi de intocmit (A),Ügyfelek - elkészítendő számlák (A)
+419, Clienti - creditori (P),Ügyfelek - hitelezők (P)
+42, Personal si conturi asimilate,Személyzeti és kapcsolódó számlák
+421, Personal - salarii datorate (P),Személyzeti - esedékes bérek (P)
+423, Personal - ajutoare materiale datorate (P),Személyi állomány - anyagi segély (P)
+424, Prime reprezentand participarea personalului la profit (P),Munkavállalói nyereségrészesedést megtestesítő bónuszok (P)
+425, Avansuri acordate personalului (A),Személyzetnek nyújtott előlegek (A)
+426, Drepturi de personal neridicate (P),Igényeletlen személyi jogok (P)
+427, Retineri din salarii datorate tertilor (P),Harmadik félnek járó bérekből levont összegek (P)
+428, Alte datorii si creante in legatura cu personalul,Személyi állományhoz kapcsolódó egyéb kötelezettségek és követelések
+4281, Alte datorii in legatura cu personalul (P),Egyéb személyi jellegű kötelezettségek (P)
+4282, Alte creante in legatura cu personalul (A),Személyi jellegű egyéb követelések (A)
+43," Asigurari sociale, protectia sociala si conturi asimilate","Társadalombiztosítás, szociális védelem és hasonló számlák"
+431, Asigurari sociale,Társadalombiztosítás
+4311, Contributia unitatii la asigurarile sociale (P),Az egység társadalombiztosítási hozzájárulása (P)
+4312, Contributia personalului la asigurarile sociale (P),Személyzeti hozzájárulás a társadalombiztosításhoz (P)
+4313, Contributia angajatorului pentru asigurarile sociale de sanatate (P),Munkáltatói hozzájárulás a társadalombiztosításhoz (P)
+4314, Contributia angajatilor pentru asigurarile sociale de sanatate (P),Munkavállalói társadalombiztosítási járulék (P)
+4315, Contributia de asigurari sociale (P),Társadalombiztosítási járulék (P)
+4316, Contributia de asigurari sociale de sanatate (P),Társadalombiztosítási járulék (P)
+4318, Alte contributii pentru asigurarile sociale de sanatate,Egyéb hozzájárulások a társadalombiztosításhoz
+436, Contributia asiguratorie pentru munca (P),Munkavállalói biztosítási járulék (P)
+437, Ajutor de somaj,Munkanélküli segély
+4371, Contributia unitatii la fondul de somaj (P),Az egység hozzájárulása a munkanélküli alaphoz (P)
+4372, Contributia personalului la fondul de somaj (P),Munkavállalói hozzájárulás a munkanélküli alaphoz (P)
+438, Alte datorii si creante sociale,Egyéb társadalmi tartozások és követelések
+4381, Alte datorii sociale (P),Egyéb társadalmi kötelezettségek (P)
+4382, Alte creante sociale (A),Egyéb társadalmi követelések (A)
+44," Bugetul statului, fonduri speciale si conturi asimilate","Állami költségvetés, különalapok és hasonló számlák"
+441, Impozitul pe profit si alte impozite,Jövedelemadó és egyéb adók
+4411, Impozitul pe profit (P),Társasági adó (P)
+4415, Impozitul specific unor activitati (P),Bizonyos tevékenységekre kivetett különadó (P)
+4417,4417 Impozitul pe profit la nivelul impozitului minim pe cifra de afaceri,4417 Nyereségadó a minimális forgalmi adó szintjén
+4418, Impozitul pe venit (P),Jövedelemadó (P)
+442, Taxa pe valoarea adaugata,Hozzáadottérték-adó
+4423, TVA de plata (P),ÁFA-fizetés (P)
+4424, TVA de recuperat (A),Visszaigényelendő ÁFA (A)
+4426, TVA deductibila (A),Levonható áfa (A)
+4427, TVA colectata (P),Beszedett ÁFA (P)
+4428, TVA neexigibila (A/P),Nem igényelt áfa (beszerzési)
+444, Impozitul pe venituri de natura salariilor (P),Bérből származó jövedelem adója (P)
+445, Subventii,Támogatások
+4451, Subventii guvernamentale (A),Állami támogatások (A)
+4452, Imprumuturi nerambursabile cu caracter de subventii (A),"Támogatás jellegű, vissza nem térítendő kölcsönök (A)"
+4458, Alte sume primite cu caracter de subventii (A),Egyéb támogatásként kapott összegek (A)
+446," Alte impozite, taxe si varsaminte asimilate (P)","Egyéb adók, illetékek és hasonló kifizetések (P)"
+447, Fonduri speciale - taxe si varsaminte asimilate (P),Speciális alapok - adók és hasonló kifizetések (P)
+448, Alte datorii si creante cu bugetul statului,Egyéb adósságok és követelések az államháztartással szemben
+4481, Alte datorii fata de bugetul statului (P),Egyéb államháztartási tartozások (P)
+4482, Alte creante privind bugetul statului (A),"Egyéb, az államháztartással kapcsolatos követelések (A)"
+45, Grup si actionari/asociati,Csoport és részvényesek/társult felek
+451, Decontari intre entitatile afiliate,Kapcsolt vállalkozások közötti elszámolások
+4511, Decontari intre entitatile afiliate (A/P),Kapcsolt vállalkozások közötti elszámolások (A/P)
+4518, Dobanzi aferente decontarilor intre entitatile afiliate (A/P),Kapcsolt vállalkozások közötti elszámolásokhoz kapcsolódó kamat (A/P)
+453, Decontari cu entitatile asociate si entitatile controlate in comun,Kapcsolt vállalkozásokkal és közösen ellenőrzött vállalkozásokkal történő elszámolások
+4531, Decontari cu entitatile asociate si entitatile controlate,Kapcsolt vállalkozásokkal és ellenőrzött vállalkozásokkal kötött elszámolások
+4538, Dobanzi aferente decontarilor cu entitatile asociate si entitatile controlate in comun (A/P),Kapcsolt vállalkozásokkal és közösen ellenőrzött vállalkozásokkal történő elszámolásokhoz kapcsolódó kamat (A/P)
+455, Sume datorate actionarilor/asociatilor,Részvényeseknek/társult feleknek járó összegek
+4551, Actionari/Asociati - conturi curente (P),Részvényesek/Társult felek - folyószámlák (P)
+4558, Actionari/Asociati - dobanzi la conturi curente (P),Részvényesek/Társult tulajdonosok - folyószámlák kamata (P)
+456, Decontari cu actionarii/asociatii privind capitalul (A/P),Részvényesekkel/szövetségekkel kötött tőkével kapcsolatos elszámolások (A/P)
+457, Dividende de plata (P),Fizetendő osztalék (P)
+458, Decontari din operatiuni in participatie,Közös vállalkozásokból származó elszámolások
+4581, Decontari din operatiuni in participatie - pasiv (P),Közös vállalkozási tevékenységekből származó elszámolások - kötelezettségek (P)
+4582, Decontari din operatiuni in participatie - activ (A),Közös vállalkozásokból származó elszámolások - eszköz (A)
+46, Debitori si creditori diversi,Különböző adósok és hitelezők
+461, Debitori diversi (A),Egyéb adósok (A)
+462, Creditori diversi (P),Egyéb hitelezők (P)
+463, Creante reprezentand dividende repartizate in cursul exercitiului financiar (A),A pénzügyi év során kifizetett osztalékot képviselő követelések (A)
+466, Decontari din operatiuni de fiducie,Vagyonkezelői műveletekből származó elszámolások
+4661, Datorii din operatiuni de fiducie (P),Vagyonkezelői műveletekből származó kötelezettségek (P)
+4662, Creante din operatiuni de fiducie (A),Követelések vagyonkezelési műveletekből (A)
+467,467 Datorii aferente distribuirilor interimare de dividende,467 Időközi osztalékfizetéssel kapcsolatos kötelezettségek
+47," Conturi de subventii, regularizare si asimilate","Támogatások, szabályozás és hasonló számlák"
+471, Cheltuieli inregistrate in avans (A),Előrefizetett költségek (A)
+472, Venituri inregistrate in avans (P),Halasztott bevétel (P)
+473, Decontari din operatiuni in curs de clarificare (A/P),Tisztázás alatt álló műveletekből származó elszámolások (A/P)
+475, Subventii pentru investitii,Beruházási támogatások
+4751, Subventii guvernamentale pentru investitii (P),Beruházásokra szánt állami támogatások (P)
+4752, Imprumuturi nerambursabile cu caracter de subventii pentru investitii (P),Beruházási támogatások jellegű vissza nem térítendő kölcsönök (P)
+4753, Donatii pentru investitii (P),Beruházásokra szánt adományok (P)
+4754, Plusuri de inventar de natura imobilizarilor (P),Készletnövekedés tárgyi eszközök jellegéből adódóan (P)
+4758, Alte sume primite cu caracter de subventii pentru investitii (P),Egyéb beruházási támogatásként kapott összegek (P)
+478, Venituri in avans aferente activelor primite prin transfer de la clienti (P),Vevőktől átutalás útján kapott eszközökhöz kapcsolódó előlegbevétel (P)
+48, Decontari in cadrul unitatii,Települések az egységen belül
+481, Decontari intre unitate si subunitati (A/P),Egység és alegységek közötti elszámolások (A/P)
+482, Decontari intre subunitati (A/P),Alegységek közötti települések (A/P)
+49, Ajustari pentru deprecierea creantelor,Követelések értékvesztése miatti korrekciók
+490, Ajustari pentru deprecierea creantelor reprezentand avansuri acordate furnizorilor,Szállítóknak nyújtott előlegeket jelentő követelések értékvesztése miatti korrekciók
+4901, Ajustari pentru deprecierea creantelor aferente cumpararilor de bunuri de natura stocurilor (P),Készlet jellegű áruk beszerzésével kapcsolatos követelések értékvesztésének korrekciója (P)
+4902, Ajustari pentru deprecierea creantelor aferente prestarilor de servicii (P),Szolgáltatásnyújtással kapcsolatos követelések értékvesztése miatti korrekciók (P)
+4903, Ajustari pentru deprecierea creantelor aferente imobilizarilor corporale (P),Tárgyi eszközökhöz kapcsolódó követelések értékvesztése miatti korrekciók (P)
+4904, Ajustari pentru deprecierea creantelor aferente imobilizarilor necorporale (P),Immateriális javakhoz kapcsolódó követelések értékvesztése miatti korrekciók (P)
+491, Ajustari pentru deprecierea creantelor - clienti (P),Követelések értékvesztésének korrekciója - vevők (P)
+495, Ajustari pentru deprecierea creantelor - decontari in cadrul grupului si cu actionarii/asociatii (P),Követelések értékvesztése miatti korrekciók - csoporton belüli és részvényesekkel/szövetségekkel történő elszámolások (P)
+496, Ajustari pentru deprecierea creantelor - debitori diversi (P),Követelések értékvesztésének korrekciója - vegyes vevők (P)
+50, Investitii pe termen scurt,Rövid távú befektetések
+501, Actiuni detinute la entitatile afiliate (A),Kapcsolt vállalkozásokban tartott részvények (A)
+505, Obligatiuni emise si rascumparate (A),Kibocsátott és visszaváltott kötvények (A)
+506, Obligatiuni (A),Kötvények (A)
+507, Certificate verzi primite (A),Beérkezett zöld bizonyítványok (A)
+508, Alte investitii pe termen scurt si creante asimilate,Egyéb rövid lejáratú befektetések és hasonló követelések
+5081, Alte titluri de plasament (A),Egyéb befektetési értékpapírok (A)
+5088, Dobanzi la obligatiuni si titluri de plasament (A),Kötvények és befektetési értékpapírok kamata (A)
+509, Varsaminte de efectuat pentru investitiile pe termen scurt,Rövid lejáratú befektetésekre fizetendő kifizetések
+5091, Varsaminte de efectuat pentru actiunile detinute la entitatile afiliate (P),Kapcsolt vállalkozásokban lévő részvények után fizetendő kifizetések (P)
+5092, Varsaminte de efectuat pentru alte investitii pe termen scurt (P),Egyéb rövid lejáratú befektetésekre fizetendő kifizetések (P)
+51, Conturi la banci,Bankszámlák
+511, Valori de incasat,Gyűjtendő értékek
+5112, Cecuri de incasat (A),Beszedendő csekkek (A)
+5113, Efecte de incasat (A),Váltókövetelések (A)
+5114, Efecte remise spre scontare (A),Leszámítolásra benyújtott hatások (A)
+512, Conturi curente la banci,Jelenlegi bankszámlák
+5121, Conturi la banci in lei (A),Bankszámlák lejben (A)
+5124, Conturi la banci in valuta (A),Devizában vezetett bankszámlák (A)
+5125, Sume in curs de decontare (A),Elszámolás alatt álló összegek (A)
+518, Dobanzi,Kamat
+5186, Dobanzi de platit (P),Fizetendő kamat (P)
+5187, Dobanzi de incasat (A),Kamatkövetelés (A)
+519, Credite bancare pe termen scurt,Rövid lejáratú banki hitelek
+5191, Credite bancare pe termen scurt (P),Rövid lejáratú banki hitelek (P)
+5192, Credite bancare pe termen scurt nerambursate la scadenta (P),"Rövid lejáratú, lejáratkor vissza nem fizetett banki hitelek (P)"
+5193, Credite externe guvernamentale (P),Kormányzati külső hitelek (P)
+5194, Credite externe garantate de stat (P),Államilag garantált külső hitelek (P)
+5195, Credite externe garantate de banci (P),Bankok által garantált külső hitelek (P)
+5196, Credite de la Trezoreria Statului (P),Államkincstári kölcsönök (P)
+5197, Credite interne garantate de stat (P),Államilag garantált belföldi hitelek (P)
+5198, Dobanzi aferente creditelor bancare pe termen scurt (P),Rövid lejáratú banki hitelek kamata (P)
+53, Casa,Ház
+531, Casa,Ház
+5311, Casa in lei (A),Ház lejben (A)
+5314, Casa in valuta (A),Devizában denominált ház (A)
+532, Alte valori,Egyéb értékek
+5321, Timbre fiscale si postale (A),Adó- és postai bélyegek (A)
+5322, Bilete de tratament si odihna (A),Kezelés és pihenés jegyek (A)
+5323, Tichete si bilete de calatorie (A),Jegyek és utazási jegyek (A)
+5328, Alte valori (A),Egyéb értékek (A)
+54, Acreditive,Hitellevelek
+541, Acreditive,Hitellevelek
+5411, Acreditive in lei (A),Levelek lejben (A)
+5414, Acreditive in valuta (A),Devizában kibocsátott akkreditívek (A)
+542, Avansuri de trezorerie (A),Államkincstári előlegek (A)
+58, Viramente interne,Belföldi átutalások
+581, Viramente interne (A/P),Belső átutalások (bejövő)
+59, Ajustari pentru pierderea de valoare a conturilor de trezorerie,Kincstári számlák értékvesztésének korrekciója
+591, Ajustari pentru pierderea de valoare a actiunilor detinute la entitatile afiliate (P),Kapcsolt vállalkozásokban lévő részvények értékvesztésének korrekciója (P)
+595, Ajustari pentru pierderea de valoare a obligatiunilor emise si rascumparate (P),Kibocsátott és visszaváltott kötvények értékvesztésének korrekciója (P)
+596, Ajustari pentru pierderea de valoare a obligatiunilor (P),Kötvények értékvesztésének korrekciója (P)
+598, Ajustari pentru pierderea de valoare a altor investitii pe termen scurt si creante asimilate (P),Egyéb rövid lejáratú befektetések és hasonló követelések értékvesztése miatti korrekciók (P)
+60, Cheltuieli privind stocurile si alte consumuri,Készletekkel és egyéb fogyasztással kapcsolatos költségek
+601, Cheltuieli cu materiile prime,Nyersanyagköltségek
+602, Cheltuieli cu materialele consumabile,Fogyóeszközökre fordított kiadások
+6021, Cheltuieli cu materialele auxiliare,Segédanyagok költségei
+6022, Cheltuieli privind combustibilii,Üzemanyagköltségek
+6023, Cheltuieli privind materialele pentru ambalat,Csomagolóanyagokkal kapcsolatos költségek
+6024, Cheltuieli privind piesele de schimb,Alkatrészköltségek
+6025, Cheltuieli privind semintele si materialele de plantat,Vetőmagokkal és ültetési anyagokkal kapcsolatos költségek
+6026, Cheltuieli privind furajele,Takarmányköltségek
+6028, Cheltuieli privind alte materiale consumabile,Egyéb fogyóeszközökkel kapcsolatos költségek
+603, Cheltuieli privind materialele de natura obiectelor de inventar,Készlettétel jellegű anyagokkal kapcsolatos költségek
+604, Cheltuieli privind materialele nestocate,Nem raktáron lévő anyagokkal kapcsolatos költségek
+605, Cheltuieli privind utilitatile,Közüzemi költségek
+6051, Cheltuieli privind consumul de energie,Energiafogyasztási költségek
+6052, Cheltuieli privind consumul de apa,Vízfogyasztási költségek
+6053,6053 Cheltuieli privind consumul de gaze naturale,6053 Földgázfogyasztással kapcsolatos költségek
+6058,6058 Cheltuieli cu alte utilitati,6058 Egyéb közüzemi költségek
+606, Cheltuieli privind activele biologice de natura stocurilor,Készletek jellegű biológiai eszközökhöz kapcsolódó költségek
+607, Cheltuieli privind marfurile,Árukkal kapcsolatos költségek
+608, Cheltuieli privind ambalajele,Csomagolási költségek
+609, Reduceri comerciale primite,Kapott kereskedelmi kedvezmények
+61, Cheltuieli cu serviciile executate de terti,Harmadik felek által nyújtott szolgáltatások költségei
+611, Cheltuieli cu intretinerea si reparatiile,Karbantartási és javítási költségek
+612," Cheltuieli cu redeventele, locatiile de gestiune si chiriile","Jogdíjakkal, helyszínkezeléssel és bérleti díjakkal kapcsolatos költségek"
+6121,6121 „Cheltuieli cu redeventele,6121 „Jogdíjköltségek”
+6122,6122 Cheltuieli cu locatiile de gestiune,6122 Költségek irányítási helyekkel
+6123,6123 Cheltuieli cu chiriile,6123 Bérleti díjak
+613, Cheltuieli cu primele de asigurare,Biztosítási díjak költségei
+614, Cheltuieli cu studiile si cercetarile,Tanulmányok és kutatás költségei
+615, Cheltuieli cu pregatirea personalului,Személyzeti képzési költségek
+616,616 Cheltuieli aferente drepturilor de proprietate intelectuală”,"616 Szellemi tulajdonjogokkal kapcsolatos költségek"""
+617,617 Cheltuieli de management,617 Igazgatási költségek
+618,618 Cheltuieli de consultanta,618 Tanácsadási költségek
+62, Cheltuieli cu alte servicii executate de terti,Harmadik fél által nyújtott egyéb szolgáltatásokkal kapcsolatos költségek
+621, Cheltuieli cu colaboratorii,Alkalmazotti költségek
+622, Cheltuieli privind comisioanele si onorariile,Jutalékokkal és díjakkal kapcsolatos költségek
+623," Cheltuieli de protocol, reclama si publicitate","Protokoll-, reklám- és nyilvánossági költségek"
+6231, Cheltuieli de protocol,Protokoll költségek
+6232, Cheltuieli de reclama si publicitate,Reklám- és nyilvánossági költségek
+624, Cheltuieli cu transportul de bunuri si personal,Áruk és személyzet szállításának költségei
+625," Cheltuieli cu deplasari, detasari si transferari","Utazási, kiküldetési és áthelyezési költségek"
+626, Cheltuieli postale si taxe de telecomunicatii,Postai költségek és telekommunikációs díjak
+627, Cheltuieli cu serviciile bancare si asimilate,Banki és hasonló szolgáltatásokkal kapcsolatos költségek
+628, Alte cheltuieli cu serviciile executate de terti,Harmadik fél által nyújtott szolgáltatásokkal kapcsolatos egyéb költségek
+63," Cheltuieli cu alte impozite, taxe si varsaminte asimilate","Egyéb adókkal, illetékekkel és hasonló befizetésekkel járó költségek"
+635," Cheltuieli cu alte impozite, taxe si varsaminte asimilate","Egyéb adókkal, illetékekkel és hasonló befizetésekkel járó költségek"
+6351,6351 Cheltuieli cu impozitul suplimentar pentru sectoarele de activitate specifice,6351 Kiegészítő adóköltségek meghatározott tevékenységi ágazatokhoz
+64, Cheltuieli cu personalul,Személyi jellegű költségek
+641, Cheltuieli cu salariile personalului,Személyzeti bérköltségek
+642, Cheltuieli cu avantajele in natura si tichetele acordate salariatilor,Munkavállalóknak nyújtott természetbeni juttatások és utalványok költségei
+6421, Cheltuieli cu avantajele in natura acordate salariatilor,Munkavállalóknak nyújtott természetbeni juttatások költségei
+6422, Cheltuieli cu tichetele acordate salariatilor,Munkavállalóknak juttatott utalványokkal kapcsolatos költségek
+643, Cheltuieli cu remunerarea in instrumente de capitaluri proprii,Javadalmazási költségek részvényinstrumentumokban
+644, Cheltuieli cu primele reprezentand participarea personalului la profit,"Költségek, amelyekhez bónuszok járnak, és amelyek a munkavállalók nyereségrészesedését képviselik"
+645, Cheltuieli privind asigurarile si protectia sociala,Biztosítási és társadalombiztosítási költségek
+6451, Cheltuieli privind contributia unitatii la asigurarile sociale,Az egység társadalombiztosítási hozzájárulásával kapcsolatos költségek
+6452, Cheltuieli privind contributia unitatii pentru ajutorul de somaj,Az egység munkanélküli ellátáshoz való hozzájárulásával kapcsolatos költségek
+6453, Cheltuieli privind contributia angajatorului pentru asigurarile sociale de sanatate,A munkáltatói társadalombiztosítási járulékkal kapcsolatos költségek
+6455, Cheltuieli privind contributia unitatii la asigurarile de viata,Az egység életbiztosításhoz való hozzájárulásával kapcsolatos költségek
+6456, Cheltuieli privind contributia unitatii la fondurile de pensii facultative,Az egység önkéntes nyugdíjalapokba történő befizetéseivel kapcsolatos költségek
+6457, Cheltuieli privind contributia unitatii la primele de asigurare voluntara de sanatate,Az egység önkéntes egészségbiztosítási díjakhoz való hozzájárulásával kapcsolatos költségek
+6458, Alte cheltuieli privind asigurarile si protectia sociala,Egyéb biztosítással és társadalombiztosítással kapcsolatos költségek
+646, Cheltuieli privind contributia asiguratorie pentru munca,Munkaügyi biztosítási járulékokkal kapcsolatos költségek
+6461, Cheltuieli privind contributia asiguratorie pentru munca corespunzatoare salariatilor,A munkavállalók megfelelő munkájához kapcsolódó biztosítási járulék költségei
+6462," Cheltuieli privind contributia asiguratorie pentru munca corespunzatoare altor persoane, decat salariatii",A nem alkalmazottaknak járó munkavégzéssel kapcsolatos biztosítási járulékokkal kapcsolatos költségek
+65, Alte cheltuieli de exploatare,Egyéb működési költségek
+651, Cheltuieli din operatiuni de fiducie,Vagyonkezelői műveletekből származó költségek
+6511, Cheltuieli ocazionate de constituirea fiduciei,A vagyonkezelői alap létrehozásával felmerült költségek
+6512, Cheltuieli din derularea operatiunilor de fiducie,Fiduciárius műveletek végrehajtásából származó költségek
+6513, Cheltuieli din lichidarea operatiunilor de fiducie,A bizalmi vagyonkezelés felszámolásából származó költségek
+652, Cheltuieli cu protectia mediului inconjurator,Környezetvédelmi költségek
+654, Pierderi din creante si debitori diversi,Veszteségek a követeléseken és egyéb adósokon
+655, Cheltuieli din reevaluarea imobilizarilor corporale,Tárgyi eszközök átértékeléséből származó költségek
+658, Alte cheltuieli de exploatare,Egyéb működési költségek
+6581," Despagubiri, amenzi si penalitati","Kártérítés, bírságok és büntetések"
+6582, Donatii acordate,Adományok
+6583, Cheltuieli privind activele cedate si alte operatiuni de capital,Értékesített eszközökkel és egyéb tőkeműveletekkel kapcsolatos költségek
+6584, Cheltuieli cu sumele sau bunurile acordate ca sponsorizari,Szponzorációként nyújtott összegekkel vagy árukkal kapcsolatos kiadások
+6586, Cheltuieli reprezentand transferuri si contributii datorate in baza unor acte normative speciale,Különleges normatív törvények alapján esedékes átutalásokat és hozzájárulásokat képviselő költségek
+6587, Cheltuieli privind calamitatile si alte evenimente similare,Katasztrófákkal és más hasonló eseményekkel kapcsolatos költségek
+6588, Alte cheltuieli de exploatare,Egyéb működési költségek
+66, Cheltuieli financiare,Pénzügyi kiadások
+663, Pierderi din creante legate de participatii,Részesedésekhez kapcsolódó követelésekből származó veszteségek
+664, Cheltuieli privind investitiile financiare cedate,Eladott pénzügyi befektetésekhez kapcsolódó költségek
+6641, Cheltuieli privind imobilizarile financiare cedate,Eladott pénzügyi eszközökhöz kapcsolódó költségek
+6642, Pierderi din investitiile pe termen scurt cedate,Rövid lejáratú befektetésekből származó veszteségek értékesítése
+665, Cheltuieli din diferente de curs valutar,Árfolyamkülönbözetekből eredő költségek
+6651, Diferente nefavorabile de curs valutar legate de elementele monetare exprimate in valuta,Devizában denominált monetáris tételekhez kapcsolódó kedvezőtlen árfolyamkülönbözetek
+6652, Diferente nefavorabile de curs valutar din evaluarea elementelor monetare care fac parte din investitia neta intr-o entitate straina,Kedvezőtlen árfolyamkülönbségek a külföldi szervezetbe történő nettó befektetés részét képező monetáris elemek értékeléséből
+666, Cheltuieli privind dobanzile,Kamatkiadások
+667, Cheltuieli privind sconturile acordate,Adott kedvezményekhez kapcsolódó költségek
+668, Alte cheltuieli financiare,Egyéb pénzügyi költségek
+68," Cheltuieli cu amortizarile, provizioanele si ajustarile pentru depreciere sau pierdere de valoare","Értékcsökkenés, amortizáció, céltartalékok és korrekciók értékcsökkenés vagy értékvesztés miatt"
+681," Cheltuieli de exploatare privind amortizarile, provizioanele si ajustarile pentru depreciere","Az értékcsökkenéssel, a céltartalékokkal és az értékcsökkenési korrekciókkal kapcsolatos működési költségek"
+6811, Cheltuieli de exploatare privind amortizarea imobilizarilor,Tárgyi eszközök értékcsökkenésével kapcsolatos működési költségek
+6812, Cheltuieli de exploatare privind provizioanele,Céltartalékokkal kapcsolatos működési költségek
+6813, Cheltuieli de exploatare privind ajustarile pentru deprecierea imobilizarilor,A tárgyi eszközök értékcsökkenésének korrekciójával kapcsolatos működési költségek
+6814, Cheltuieli de exploatare privind ajustarile pentru deprecierea activelor circulante,A forgóeszközök értékcsökkenésének korrekciójával kapcsolatos működési költségek
+6817, Cheltuieli de exploatare privind ajustarile pentru deprecierea fondului comercial,A goodwill értékvesztésének korrekciójához kapcsolódó működési költségek
+6818, Cheltuieli de exploatare privind ajustarile pentru deprecierea creantelor reprezentand avansuri acordate furnizorilor,A szállítóknak nyújtott előlegeket jelentő követelések értékvesztésének korrekciójával kapcsolatos működési költségek
+686," Cheltuieli financiare privind amortizarile, provizioanele si ajustarile pentru pierdere de valoare","Értékcsökkenéssel, céltartalékokkal és értékvesztéssel kapcsolatos korrekciókkal kapcsolatos pénzügyi költségek"
+6861, Cheltuieli privind actualizarea provizioanelor,Céltartalékok frissítésével kapcsolatos költségek
+6863, Cheltuieli financiare privind ajustarile pentru pierderea de valoare a imobilizarilor financiare,Pénzügyi eszközök értékvesztésének korrekciójával kapcsolatos pénzügyi költségek
+6864, Cheltuieli financiare privind ajustarile pentru pierderea de valoare a activelor circulante,A forgóeszközök értékvesztésének korrekciójával kapcsolatos pénzügyi költségek
+6865, Cheltuieli financiare privind amortizarea diferentelor aferente titlurilor de stat,Állampapírokkal kapcsolatos különbözetek amortizációjával kapcsolatos pénzügyi költségek
+6868, Cheltuieli financiare privind amortizarea primelor de rambursare a obligatiunilor si a altor datorii,Kötvény- és egyéb adósságtörlesztési prémium amortizációjával kapcsolatos pénzügyi költségek
+69, Cheltuieli cu impozitul pe profit si alte impozite,Jövedelemadó és egyéb adóköltségek
+691, Cheltuieli cu impozitul pe profit,Jövedelemadó-kiadások
+694, Cheltuieli cu impozitul pe profit rezultat din decontarile in cadrul grupului fiscal in domeniul impozitului pe profit,Az adócsoporton belüli elszámolásokból eredő nyereségadó-ráfordítások a nyereségadó területén
+695, Cheltuieli cu impozitul specific unor activitati,Bizonyos tevékenységekre vonatkozó külön adóköltségek
+697, Cheltuieli cu impozitul pe profit la nivelul impozitului minim pe cifra de afaceri,Nyereségadó-ráfordítások a minimális forgalmi adó szintjén
+698, Cheltuieli cu impozitul pe venit si cu alte impozite care nu apar in elementele de mai sus,"Jövedelemadó-ráfordítások és egyéb adók, amelyek nem szerepelnek a fenti tételekben"
+70, Cifra de afaceri neta,Nettó árbevétel
+701," Venituri din vanzarea produselor finite, produselor agricole si a activelor biologice de natura stocurilor","Késztermékek, mezőgazdasági termékek és készlet jellegű biológiai eszközök értékesítéséből származó bevétel"
+7015, Venituri din vanzarea produselor finite,Késztermékek értékesítéséből származó bevétel
+7017, Venituri din vanzarea produselor agricole,Mezőgazdasági termékek értékesítéséből származó bevétel
+7018, Venituri din vanzarea activelor biologice de natura stocurilor,Készletek jellegű biológiai eszközök értékesítéséből származó bevétel
+702, Venituri din vanzarea semifabricatelor,Félkész termékek értékesítéséből származó bevétel
+703, Venituri din vanzarea produselor reziduale,Maradéktermékek értékesítéséből származó bevétel
+704, Venituri din servicii prestate,Szolgáltatásokból származó bevétel
+705, Venituri din studii si cercetari,Tanulmányokból és kutatásból származó bevétel
+706," Venituri din redevente, locatii de gestiune si chirii","Jogdíjakból, helyszínkezelési díjakból és bérleti díjakból származó bevételek"
+707, Venituri din vanzarea marfurilor,Áruk értékesítéséből származó bevétel
+708, Venituri din activitati diverse,Különböző tevékenységekből származó bevétel
+709, Reduceri comerciale acordate,Nyújtott kereskedelmi kedvezmények
+71, Venituri aferente costului productiei in curs de executie,A befejezetlen termelés költségéhez kapcsolódó bevétel
+711, Venituri aferente costurilor stocurilor de produse,Termékkészlet-költségekhez kapcsolódó bevétel
+712, Venituri aferente costurilor serviciilor in curs de executie,Bevételek a folyamatban lévő szolgáltatások költségeivel kapcsolatban
+72, Venituri din productia de imobilizari,Bevétel tárgyi eszközök előállításából
+721, Venituri din productia de imobilizari necorporale,Immateriális javak előállításából származó bevétel
+722, Venituri din productia de imobilizari corporale,Tárgyi eszközök előállításából származó bevétel
+725, Venituri din productia de investitii imobiliare,Ingatlanbefektetési termelésből származó jövedelem
+74, Venituri din subventii de exploatare,Működési támogatásokból származó bevétel
+741, Venituri din subventii de exploatare,Működési támogatásokból származó bevétel
+7411, Venituri din subventii de exploatare aferente cifrei de afaceri*22),Forgalommal kapcsolatos működési támogatások bevétele*22)
+7412, Venituri din subventii de exploatare pentru materii prime si materiale,Bevételek az alapanyagok és kellékek működési támogatásából
+7413, Venituri din subventii de exploatare pentru alte cheltuieli externe,Egyéb külső költségekre vonatkozó működési támogatásokból származó bevétel
+7414, Venituri din subventii de exploatare pentru plata personalului,Személyi kifizetésekre vonatkozó működési támogatásokból származó bevétel
+7415, Venituri din subventii de exploatare pentru asigurari si protectie sociala,Biztosítási és szociális védelmi működési támogatásokból származó bevételek
+7416, Venituri din subventii de exploatare pentru alte cheltuieli de exploatare,Működési támogatásokból származó bevétel egyéb működési költségekre
+7417, Venituri din subventii de exploatare in caz de calamitati si alte evenimente similare,Működési támogatásokból származó bevétel katasztrófák és más hasonló események esetén
+7418, Venituri din subventii de exploatare pentru dobanda datorata,Működési támogatásokból származó bevétel esedékes kamatok fedezésére
+7419, Venituri din subventii de exploatare aferente altor venituri,Egyéb bevételekhez kapcsolódó működési támogatásokból származó bevétel
+75, Alte venituri din exploatare,Egyéb működési bevételek
+751, Venituri din operatiuni de fiducie,Bevétel vagyonkezelői műveletekből
+7511, Venituri ocazionate de constituirea fiduciei,A vagyonkezelői alap létrehozásából származó jövedelem
+7512, Venituri din derularea operatiunilor de fiducie,Fiduciárius műveletekből származó bevétel
+7513, Venituri din lichidarea operatiunilor de fiducie,Vagyonkezelői műveletek felszámolásából származó bevétel
+754, Venituri din creante reactivate si debitori diversi,Reaktivált követelésekből és egyéb adósságokból származó bevétel
+755, Venituri din reevaluarea imobilizarilor corporale,Tárgyi eszközök átértékeléséből származó bevétel
+758, Alte venituri din exploatare,Egyéb működési bevételek
+7581," Venituri din despagubiri, amenzi si penalitati","Kártérítésekből, bírságokból és büntetésekből származó bevétel"
+7582, Venituri din donatii primite,Bevétel a kapott adományokból
+7583, Venituri din vanzarea activelor si alte operatiuni de capital,Eszközértékesítésből és egyéb tőkeműveletekből származó bevételek
+7584, Venituri din subventii pentru investitii,Beruházási támogatásokból származó bevétel
+7586, Venituri reprezentand transferuri cuvenite in baza unor acte normative speciale,Különleges normatív törvények alapján járó transzfereket képviselő bevételek
+7588, Alte venituri din exploatare,Egyéb működési bevételek
+76, Venituri financiare,Pénzügyi bevétel
+761, Venituri din imobilizari financiare,Pénzügyi eszközökből származó jövedelem
+7611, Venituri din actiuni detinute la entitatile afiliate,Kapcsolt vállalkozásokban tartott részvényekből származó jövedelem
+7612, Venituri din actiuni detinute la entitati asociate,Kapcsolt vállalkozásokban tartott részvényekből származó jövedelem
+7613, Venituri din actiuni detinute la entitati controlate in comun,Közösen ellenőrzött vállalkozásokban tartott részvényekből származó jövedelem
+7615, Venituri din alte imobilizari financiare,Egyéb pénzügyi eszközökből származó jövedelem
+762, Venituri din investitii financiare pe termen scurt,Rövid lejáratú pénzügyi befektetésekből származó jövedelem
+764, Venituri din investitii financiare cedate,Eladott pénzügyi befektetésekből származó bevétel
+7641, Venituri din imobilizari financiare cedate,Eladott pénzügyi eszközökből származó bevétel
+7642, Castiguri din investitii pe termen scurt cedate,Rövid lejáratú befektetésekből származó nyereség
+765, Venituri din diferente de curs valutar,Árfolyamkülönbözetekből származó bevétel
+7651, Diferente favorabile de curs valutar legate de elementele monetare exprimate in valuta,Devizában denominált monetáris tételekhez kapcsolódó kedvező árfolyamkülönbözetek
+7652, Diferente favorabile de curs valutar din evaluarea elementelor monetare care fac parte din investitia neta intr-o entitate straina,Kedvező árfolyamkülönbségek a külföldi szervezetbe történő nettó befektetés részét képező monetáris elemek értékeléséből
+766, Venituri din dobanzi,Kamatbevétel
+767, Venituri din sconturi obtinute,Bevétel a kapott kedvezményekből
+768, Alte venituri financiare,Egyéb pénzügyi bevételek
+78," Venituri din provizioane, amortizari si ajustari pentru depreciere sau pierdere de valoare","Céltartalékokból, amortizációból és értékcsökkenési vagy értékvesztési korrekciókból származó bevétel"
+781, Venituri din provizioane si ajustari pentru depreciere privind activitatea de exploatare,Bevétel a működési tevékenységgel kapcsolatos céltartalékokból és értékcsökkenési korrekciókból
+7812, Venituri din provizioane,Céltartalékokból származó bevétel
+7813, Venituri din ajustari pentru deprecierea imobilizarilor,Bevétel a tárgyi eszközök értékcsökkenésének korrekciójából
+7814, Venituri din ajustari pentru deprecierea activelor circulante,Forgóeszközök értékcsökkenésének korrekciójából származó bevétel
+7815, Venituri din fondul comercial negativ,Negatív goodwill bevétel
+7818, Venituri din ajustari pentru deprecierea creantelor reprezentand avansuri acordate furnizorilor,Bevétel a szállítóknak nyújtott előlegeket jelentő követelések értékvesztésének korrekciójából
+786, Venituri financiare din amortizari si ajustari pentru pierdere de valoare,Értékcsökkenésből és értékvesztésből származó pénzügyi bevétel
+7863, Venituri financiare din ajustari pentru pierderea de valoare a imobilizarilor financiare,Pénzügyi bevételek pénzügyi eszközök értékvesztése miatti korrekciókból
+7864, Venituri financiare din ajustari pentru pierderea de valoare a activelor circulante,Forgóeszközök értékvesztésének korrekciójából származó pénzügyi bevétel
+7865, Venituri financiare din amortizarea diferentelor aferente titlurilor de stat,Állampapírokkal kapcsolatos különbözetek amortizációjából származó pénzügyi bevétel
+79, Venituri din impozitul pe profit,Jövedelemadó-bevétel
+794, Venituri din impozitul pe profit rezultat din decontarile in cadrul grupului fiscal in domeniul impozitului pe profit,A jövedelemadó területén az adócsoporton belüli elszámolásokból származó jövedelemadó-bevételek
+80, Conturi in afara bilantului,Mérlegen kívüli számlák
+801, Angajamente acordate,Kötelezettségvállalások
+8011, Giruri si garantii acordate,Jóváhagyások és nyújtott garanciák
+8018, Alte angajamente acordate,Egyéb vállalások
+802, Angajamente primite,Beérkezett kötelezettségvállalások
+8021, Giruri si garantii primite,Kapott jóváhagyások és garanciák
+8028, Alte angajamente primite,Egyéb kapott kötelezettségvállalások
+803, Alte conturi in afara bilantului,Egyéb mérlegen kívüli számlák
+8031, Imobilizari corporale primite cu chirie sau in baza altor contracte similare,Bérleti díj vagy más hasonló szerződés keretében kapott tárgyi eszközök
+8032, Valori materiale primite spre prelucrare sau reparare,Feldolgozásra vagy javításra kapott anyagértékek
+8033, Valori materiale primite in pastrare sau custodie,Megőrzésre vagy megőrzésre átvett anyagi értékek
+8034," Debitori scosi din activ, urmariti in continuare","Leírt követelések, nyomon követés"
+8035, Stocuri de natura obiectelor de inventar date in folosinta,Használatba vett készletek
+8036," Redevente, locatii de gestiune, chirii si alte datorii asimilate","Jogdíjak, helyszínkezelési díjak, bérleti díjak és egyéb hasonló tartozások"
+8037, Efecte scontate neajunse la scadenta,Még le nem járt diszkontált értékpapírok
+8038," Bunuri primite in administrare, concesiune, cu chirie si alte bunuri similare","Vagyonkezelés, koncesszió, lízing és egyéb hasonló áruk keretében átvett áruk"
+8039, Alte valori in afara bilantului,Egyéb mérlegen kívüli értékek
+804, Certificate verzi,Zöld bizonyítványok
+805," Dobanzi aferente contractelor de leasing si altor contracte asimilate, neajunse la scadenta","Lízingszerződésekhez és más hasonló szerződésekhez kapcsolódó, még nem esedékes kamat"
+8051, Dobanzi de platit,Fizetendő kamat
+8052, Dobanzi de incasat,Kamatkövetelés
+806, Certificate de emisii de gaze cu efect de sera,Üvegházhatású gázok kibocsátási tanúsítványai
+807, Active contingente,Feltételes eszközök
+808, Datorii contingente,Függő kötelezettségek
+809, Creante preluate prin cesionare,Engedménnyel átvett követelések
+89, Bilant,Mérleg
+891, Bilant de deschidere,Nyitómérleg
+892, Bilant de inchidere,Zárómérleg
+90, Decontari interne,Belső települések
+901, Decontari interne privind cheltuielile,Belső költségrendezések
+902, Decontari interne privind productia obtinuta,Belső elszámolások a megszerzett termeléssel kapcsolatban
+903, Decontari interne privind diferentele de pret,Árkülönbségekre vonatkozó belső elszámolások
+92, Conturi de calculatie,Számítási számlák
+921, Cheltuielile activitatii de baza,Alapvető üzleti költségek
+922, Cheltuielile activitatilor auxiliare,Kiegészítő tevékenységek költségei
+923, Cheltuieli indirecte de productie,Közvetett termelési költségek
+924, Cheltuieli generale de administratie,Általános adminisztrációs költségek
+925, Cheltuieli de desfacere,Értékesítési költségek
+93, Costul productiei,Termelési költség
+931, Costul productiei obtinute,A kapott termelési költség
+933, Costul productiei in curs de executie,A folyamatban lévő termelés költsége
